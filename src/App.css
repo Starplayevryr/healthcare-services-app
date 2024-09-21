@@ -30,10 +30,10 @@ h2 {
 }
 
 .card {
-  margin-top: 20px; /* Add some spacing if needed */
-  transform: translateY(-20px); /* Start slightly above */
+  margin-top: 20px; 
+  transform: translateY(-20px); 
   opacity: 0;
-  animation: slideIn 0.5s forwards 0.5s; /* Apply slide-in animation with delay */
+  animation: slideIn 0.5s forwards 0.5s; 
 }
 
 @keyframes slideIn {
